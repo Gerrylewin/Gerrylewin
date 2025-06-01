@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gerrylewin
 - 👀 I’m interested in ... Business Development
 - 🌱 I’m currently learning ... JavaScript/HTML/CSS
-- 💞️ I’m looking to collaborate on ... Nothing right now, until I have a stable working version
+- 💞️ I’m looking to collaborate on ... Million-Dollar-eBooks
 - 📫 How to reach me ... Any of my socials is more than fine
 
 <!---
